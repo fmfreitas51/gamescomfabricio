@@ -1,4 +1,4 @@
-```markdown
+```markdown```
 ## Criando um README.md Detalhado para o Seu Projeto
 
 **Analisando o Código e o HTML:**
@@ -7,7 +7,7 @@ O código JavaScript fornecido implementa uma funcionalidade de busca em uma pá
 
 **Estrutura Proposta para o README.md:**
 
-```markdown
+```markdown```
 # GamescomFabricio
 
 ## Descrição
@@ -25,9 +25,9 @@ Este projeto web é um catálogo de jogos que permite aos usuários pesquisar po
 
 ## Como Executar o Projeto
 1. **Clone o repositório:**
-   ```bash
+
    git clone https://[seu_repositorio]/GamescomFabricio.git
-   ```
+  
 2. **Abra o arquivo index.html:**
    Abra o arquivo `index.html` em um navegador web.
 
@@ -75,4 +75,6 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 
 **Este README.md fornece uma base sólida para o seu projeto. Adapte-o de acordo com as suas necessidades e adicione mais detalhes conforme o projeto evoluir.**
 
+**Gostaria de adicionar alguma seção ou funcionalidade específica ao README.md?**
 ```
+
